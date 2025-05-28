@@ -1,5 +1,7 @@
+# 💫 Hello!
+
 # 💫 About Me:
-🔭 Apart from regular office work, I’m currently working on:<br>- VolunteerConnect: Contacts Management & Prioritisation Platform for non-profits,<br>- Strapazine: Strapi backend based Magazine template. (NodeJS + ReactJS)<br>👯 I’m looking to collaborate on VolunteerConnect, Strapazine<br>🌱 Learning:<br>- To minimize time to release using AI, especially frontend development.<br>- Working of AI Models & Training.<br>- New Generation Frontend Tooling<br>💬 Ask me about:<br>- Any open source project idea that you have.<br>
+🔭 Apart from regular office work, I’m currently working on:<br>## VolunteerConnect: Contacts Management & Prioritisation Platform for non-profits,<br>- Strapazine: Strapi backend based Magazine template. (NodeJS + ReactJS)<br>👯 I’m looking to collaborate on VolunteerConnect, Strapazine<br>🌱 Learning:<br>- To minimize time to release using AI, especially frontend development.<br>- Working of AI Models & Training.<br>- New Generation Frontend Tooling<br>💬 Ask me about:<br>- Any open source project idea that you have.<br>
 
 
 ## 🌐 Socials:
