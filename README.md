@@ -1,19 +1,21 @@
 # 💫 Hello!
+This is Shubham AKA Shack, regular frontend & occasional backend developer. Keen about poetry (Hindi/Marathi), Digital Wellbeing, Gandhi-Ambedkar & Open Source Projects.
 
 # 💫 About Me:
 🔭 Apart from regular office work, I’m currently working on:<br>
 - VolunteerConnect: Contacts Management & Prioritisation Platform for non-profits,<br>
 - Strapazine: Strapi backend based Magazine template. (NodeJS + ReactJS)<br>
 
-👯 I’m looking to collaborate on VolunteerConnect, Strapazine<br>
+👯 I’m open for any collaboration that is non-profit OR good learning experience.
 
 🌱 Learning:<br>
-- To minimize time to release using AI, especially frontend development.<br>
+- To reduce Turn Around Time using AI, especially frontend development.<br>
 - Working of AI Models & Training.<br>
 - New Generation Frontend Tooling<br>
 
 💬 Ask me about:<br>
 - Any open source project idea that you may have.<br>
+- Digital Wellbeing.
 
 
 ## 🌐 Socials:
