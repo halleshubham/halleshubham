@@ -17,6 +17,16 @@ This is Shubham AKA Shack, regular frontend & occasional backend developer. Keen
 - Any open source project idea that you may have.<br>
 - Digital Wellbeing.
 
+💡 I’m passionate about **self-hosting** — I love running & setting up infrastructure, experimenting with open-source tools, and learning by doing. 🚀  
+
+## 🖥️ What I Self-Host
+Here are some of the platforms and tools I’ve set up and maintained on multiple servers:
+
+- 🛒 **OpenCart** – for e-commerce
+- 👥 **Orange HRMS** – for HR management
+- ⚡ **n8n** – no-code/low-code automation platform
+- 📢 **Postiz** – social media management tooling  
+- …and **many more open-source gems** 🎉
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halleshubham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:halleshubham@gmail.com) 
